@@ -9,9 +9,7 @@ import { Component, OnInit } from '@angular/core';
     <app-container title="Attribute Selector">
       <button appButton>button</button>
     </app-container>
-  `,
-  styles: [
-  ]
+  `
 })
 export class PageComponent implements OnInit {
 
